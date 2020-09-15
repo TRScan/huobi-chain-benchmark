@@ -1,5 +1,5 @@
 const { Muta, utils } = require('@mutadev/muta-sdk');
-const { AssetService } = require('@mutadev/service');
+const { AssetService } = require('huobi-chain-sdk');
 const randomBytes = require('randombytes');
 
 const query = `mutation ( $inputRaw: InputRawTransaction! $inputEncryption: InputTransactionEncryption! ) { sendTransaction(inputRaw: $inputRaw, inputEncryption: $inputEncryption) }`;
