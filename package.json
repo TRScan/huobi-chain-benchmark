@@ -1,6 +1,6 @@
 {
   "name": "huobi-chain-bench",
-  "version": "0.2.3",
+  "version": "0.5.0",
   "description": "Muta benchmark",
   "main": "index.js",
   "publishConfig": {

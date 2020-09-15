@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/HuobiGroup/huobi-chain-benchmark/compare/v0.5.0-beta.2...v0.5.0) (2020-09-15)
+
+
+### Features
+
+* migrate to huobi sdk ([4d746bc](https://github.com/HuobiGroup/huobi-chain-benchmark/commit/4d746bc0a9efcd8526c17591b8e45f89af15d954))
+
 ### [0.2.3](https://github.com/homura/huobi-chain-benchmark/compare/v0.2.1...v0.2.3) (2020-08-03)
 
 
